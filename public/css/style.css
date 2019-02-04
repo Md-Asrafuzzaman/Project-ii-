@@ -1,0 +1,31 @@
+
+/**
+*Override CSS's
+*/
+.bg-light{
+	background-color: #02aadd!important: 
+}
+
+.margin-top{
+	 margin-top: 15px;
+}
+.card{
+	height: 250px;
+	width: 200px;
+}
+img{
+	margin-left: 3px;
+}
+.img-set2{
+	margin-top: 2px;
+}
+.img-set3{
+	margin-top: 2px;
+}
+.pagination{
+	margin-top: 15px;
+	margin-left: 350px;
+}
+
+
+/*For Image Zoom*/
